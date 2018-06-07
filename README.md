@@ -16,3 +16,7 @@ O algorítimo de Luhn valida um número de acordo com os passos abaixo:
 - Com o 'for' foi possível passar apenas pelos números em posição par na array reversa e assim seguir o passo 2 da validação.
 - Com os novos valores na array, com um novo 'for' foi percorrida toda a array e somando cada valor a variável 'sum'.
 - Usando o operador '%' verifica se o valor de 'sum' é um múltiplo de 10, chegando a validação final. 
+
+Fluxograma do código JavaScript
+
+![fluxo](validCard.png)
